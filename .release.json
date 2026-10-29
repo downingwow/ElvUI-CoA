@@ -1,0 +1,12 @@
+{
+  "version": "v1.0.1",
+  "prerelease": false,
+  "folders": [
+    "ElvUI",
+    "ElvUI_AddOnSkins",
+    "ElvUI_CoACXtra",
+    "ElvUI_CoAResources",
+    "ElvUI_OptionsUI",
+    "ElvUI_ProfileInstaller"
+  ]
+}

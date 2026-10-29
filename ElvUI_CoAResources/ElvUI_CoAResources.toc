@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: |cff1784d1ElvUI|r CoA Resources
+## Notes: CoA class resource bars integrated with ElvUI.
+## Author: Uncle Bone
+## X-Original-Author: Paddy
+## X-Maintainer: Uncle Bone
+## X-Website: https://github.com/downingwow
+## Version: 1.0.1-CoA
+## X-Upstream-Version: 1.7.9
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+
+Core.lua
+Options.lua

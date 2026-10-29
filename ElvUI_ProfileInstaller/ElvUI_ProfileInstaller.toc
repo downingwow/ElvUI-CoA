@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: |cff1784d1ElvUI|r ProfileInstaller
+## Author: Uncle Bone
+## X-Original-Author: Paddy
+## X-Maintainer: Uncle Bone
+## X-Website: https://github.com/downingwow
+## Version: 1.0.1-CoA
+## X-Upstream-Version: 1.0.0
+## Notes: Full ElvUI profile exporter and installer.
+## RequiredDeps: ElvUI
+## X-Category: ElvUI
+
+Profiles.lua
+Core.lua

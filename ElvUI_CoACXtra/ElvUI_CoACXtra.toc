@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: |cffffd200CoAC Xtra|r
+## Notes: CoA extras for ElvUI: Who search (Who+), Server Info (server message toasts, restart bar) and the Item Error Spam Fix.
+## Author: Uncle Bone
+## X-Original-Author: Paddy
+## X-Maintainer: Uncle Bone
+## X-Website: https://github.com/downingwow
+## Version: 1.0.1-CoA
+## X-Upstream-Version: 1.2.0
+## RequiredDeps: ElvUI
+## SavedVariables: ElvUI_ServerInfoDB, ElvUICoAWhoDB, ElvUIWhoDB
+## X-IconTexture: Interface\AddOns\ElvUI\Media\ElvUILogo
+
+ItemFix.lua
+Quests.lua
+Core.lua
+Who.lua
